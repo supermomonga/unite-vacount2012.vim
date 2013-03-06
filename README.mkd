@@ -5,7 +5,7 @@ It provides the list of writer name and written article count.
 
 # Install
 
-    NeoBundle 'supermomonga/unite-vacount2012', {depends: 'webapi-vim'}
+    NeoBundle 'supermomonga/unite-vacount2012.vim', {'depends': 'webapi-vim'}
 
 # Usage
 
