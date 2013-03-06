@@ -1,0 +1,12 @@
+# VACount 2012
+
+This is the unite-source of [Vim Advent Calendar 2012](http://atnd.org/events/33746)'s writer list.
+It provides the list of writer name and written article count.
+
+# Install
+
+    NeoBundle 'supermomonga/unite-vacount2012', {depends: 'webapi-vim'}
+
+# Usage
+
+    :Unite vacount2012
